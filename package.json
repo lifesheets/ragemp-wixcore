@@ -1,0 +1,17 @@
+{
+  "name": "wixcore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ua.lifesheets@wixcore.net",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^2.4.0",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.0"
+  },
+  "description": ""
+}
