@@ -3,6 +3,7 @@
 module.exports = async () => {
   try {
     await require('../commands/hp');             // Відновлення життя
+    await require('../commands/kill');           // Відновлення броні
   } catch (err) {
   }
 };
