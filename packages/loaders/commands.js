@@ -2,6 +2,7 @@
 
 module.exports = async () => {
   try {
+    await require('../commands/hp');             // Відновлення життя
   } catch (err) {
   }
 };
